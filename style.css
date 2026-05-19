@@ -693,4 +693,42 @@
             text-decoration: none;
             margin-left: 20px;
         }
+
+        /* Services Page Styling  */
+
+        .services-section{
+            display: flex;
+            margin: 90px 110px 30px;
+        }
+        .servivesSection-info{
+            width: 50%;
+        }
+        .servicesSection-badge{
+            display: inline-block;
+            background: #e8f0ff;
+            color: #472e6c;
+            font-size: 1rem;
+            font-weight: 600;
+            padding: 6px 15px;
+            border-radius: 30px;
+            margin-bottom: 15px;
+        }
+        .servicesSection-info h1{
+            font-size: 3.5rem;
+            font-weight: 800;
+            line-height: 1.1;
+            letter-spacing: -0.02em;
+            color: #1a2b4c;
+            font-family: "Roboto Slab", serif;
+        }
+        .servicesSection-info p{
+            font-size: 1.125rem;
+            color: #64748b;
+        }
+
+
+        .servicesSection-imgInfo{
+            width: 50%;
+        }
+
         
